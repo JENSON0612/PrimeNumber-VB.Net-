@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "DeterminePrimeNumber_Assignment2_D210109B/1.0.0": {
+        "runtime": {
+          "DeterminePrimeNumber_Assignment2_D210109B.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DeterminePrimeNumber_Assignment2_D210109B/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

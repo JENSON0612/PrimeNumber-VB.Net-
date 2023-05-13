@@ -1,0 +1,17 @@
+F:\SCHOOL\Visual Basic Net\assignment\DeterminePrimeNumber_Assignment2_D210109B\bin\Debug\net6.0-windows\DeterminePrimeNumber_Assignment2_D210109B.exe
+F:\SCHOOL\Visual Basic Net\assignment\DeterminePrimeNumber_Assignment2_D210109B\bin\Debug\net6.0-windows\DeterminePrimeNumber_Assignment2_D210109B.deps.json
+F:\SCHOOL\Visual Basic Net\assignment\DeterminePrimeNumber_Assignment2_D210109B\bin\Debug\net6.0-windows\DeterminePrimeNumber_Assignment2_D210109B.runtimeconfig.json
+F:\SCHOOL\Visual Basic Net\assignment\DeterminePrimeNumber_Assignment2_D210109B\bin\Debug\net6.0-windows\DeterminePrimeNumber_Assignment2_D210109B.dll
+F:\SCHOOL\Visual Basic Net\assignment\DeterminePrimeNumber_Assignment2_D210109B\bin\Debug\net6.0-windows\DeterminePrimeNumber_Assignment2_D210109B.pdb
+F:\SCHOOL\Visual Basic Net\assignment\DeterminePrimeNumber_Assignment2_D210109B\obj\Debug\net6.0-windows\DeterminePrimeNumber_Assignment2_D210109B.vbproj.AssemblyReference.cache
+F:\SCHOOL\Visual Basic Net\assignment\DeterminePrimeNumber_Assignment2_D210109B\obj\Debug\net6.0-windows\DeterminePrimeNumber_Assignment2_D210109B.Form1.resources
+F:\SCHOOL\Visual Basic Net\assignment\DeterminePrimeNumber_Assignment2_D210109B\obj\Debug\net6.0-windows\DeterminePrimeNumber_Assignment2_D210109B.vbproj.GenerateResource.cache
+F:\SCHOOL\Visual Basic Net\assignment\DeterminePrimeNumber_Assignment2_D210109B\obj\Debug\net6.0-windows\DeterminePrimeNumber_Assignment2_D210109B.GeneratedMSBuildEditorConfig.editorconfig
+F:\SCHOOL\Visual Basic Net\assignment\DeterminePrimeNumber_Assignment2_D210109B\obj\Debug\net6.0-windows\DeterminePrimeNumber_Assignment2_D210109B.AssemblyInfoInputs.cache
+F:\SCHOOL\Visual Basic Net\assignment\DeterminePrimeNumber_Assignment2_D210109B\obj\Debug\net6.0-windows\DeterminePrimeNumber_Assignment2_D210109B.AssemblyInfo.vb
+F:\SCHOOL\Visual Basic Net\assignment\DeterminePrimeNumber_Assignment2_D210109B\obj\Debug\net6.0-windows\DeterminePrimeNumber_Assignment2_D210109B.vbproj.CoreCompileInputs.cache
+F:\SCHOOL\Visual Basic Net\assignment\DeterminePrimeNumber_Assignment2_D210109B\obj\Debug\net6.0-windows\DeterminePrimeNumber_Assignment2_D210109B.dll
+F:\SCHOOL\Visual Basic Net\assignment\DeterminePrimeNumber_Assignment2_D210109B\obj\Debug\net6.0-windows\refint\DeterminePrimeNumber_Assignment2_D210109B.dll
+F:\SCHOOL\Visual Basic Net\assignment\DeterminePrimeNumber_Assignment2_D210109B\obj\Debug\net6.0-windows\DeterminePrimeNumber_Assignment2_D210109B.pdb
+F:\SCHOOL\Visual Basic Net\assignment\DeterminePrimeNumber_Assignment2_D210109B\obj\Debug\net6.0-windows\DeterminePrimeNumber_Assignment2_D210109B.genruntimeconfig.cache
+F:\SCHOOL\Visual Basic Net\assignment\DeterminePrimeNumber_Assignment2_D210109B\obj\Debug\net6.0-windows\ref\DeterminePrimeNumber_Assignment2_D210109B.dll
